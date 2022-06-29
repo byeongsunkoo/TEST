@@ -1,4 +1,4 @@
-{
+{ 
   "name": "nginx-forward-proxy",
   "version": "1.0.0",
   "description": "Simple Client for Connecting to a Forward Proxy",
